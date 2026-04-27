@@ -109,8 +109,8 @@ This repository focuses on the **implementation phase** of the Smart Beach proje
 
 ## Author
 
-Manjumaney C M
-Vaibhavkumar Bhupendrabhai Vaghela
-Jaganlal Manilal
-Minnu Varghese
+- Manjumaney C M
+- Vaibhavkumar Bhupendrabhai Vaghela
+- Jaganlal Manilal
+- Minnu Varghese
 
