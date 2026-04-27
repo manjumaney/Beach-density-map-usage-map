@@ -102,14 +102,6 @@ python main.py
 * Public event monitoring
 
 
-## Future Work
-
-* Real-time video integration
-* Heatmap visualization
-* Live dashboard (Power BI / Web)
-* Alert system for overcrowding
-
-
 ## Note
 
 This repository focuses on the **implementation phase** of the Smart Beach project. Other stages include planning, analysis, and system design.
@@ -118,6 +110,7 @@ This repository focuses on the **implementation phase** of the Smart Beach proje
 ## Author
 
 Manjumaney C M
+Vaibhavkumar Bhupendrabhai Vaghela
+Jaganlal Manilal
+Minnu Varghese
 
-
-* GitHub-level polish
